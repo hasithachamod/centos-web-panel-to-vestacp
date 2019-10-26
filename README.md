@@ -1,7 +1,7 @@
 # centos-web-panel-to-vestacp
-Import user from centos web panel to vestacp
+Import User From Centos Web Panel to VestaCP
 
-Usage:
+<b>Usage:</b>
 
 Modify file
 In version v0.2 beta need:
